@@ -140,7 +140,5 @@ from typing import List
 ```
 
 ## Performance Metrics
-
-![Performance Chart](attachment://performance_chart.png)  
 - **Runtime:** 0 ms | Beats 100.00%  
 - **Memory:** 18.04 MB | Beats 30.39%
